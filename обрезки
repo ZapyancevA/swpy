@@ -1,0 +1,14 @@
+
+№1
+total = 0
+    for num in numbers:
+        total += num
+    return total
+
+№ 1.2
+  return sorted(numbers)[-1]
+
+№2.1
+test_list = [1, 5, 2, 8, 3]
+a= test_list[::-1]
+print(a)
